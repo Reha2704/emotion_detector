@@ -1,10 +1,10 @@
 streamlit==1.17.0
 streamlit-webrtc==0.44.2
 av
-opencv-python
+opencv-python==4.5.2.52
 opencv-contrib-python
 opencv-contrib-python-headless
-opencv-contrib-python==4.5.5.62
+opencv-contrib-python==4.5.2.52
 numpy
 mediapipe==0.9.0.1
 tensorflow
